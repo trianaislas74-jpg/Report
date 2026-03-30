@@ -1,0 +1,16 @@
+[
+  {
+    "folio": "001",
+    "asunto": "Bache en calle",
+    "colonia": "Centro",
+    "status": "abierto",
+    "coords": [20.967, -89.623]
+  },
+  {
+    "folio": "002",
+    "asunto": "Luminaria apagada",
+    "colonia": "Chuburná",
+    "status": "cerrado",
+    "coords": [20.99, -89.65]
+  }
+]
